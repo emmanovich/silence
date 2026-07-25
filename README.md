@@ -1,9 +1,9 @@
 
 # Ancient Calendar Converter
 
-Ancient Calendar Converter is a Python application that demonstrates date conversion between several historical calendar systems.
+Ancient Calendar Converter is a Python application that demonstrates date conversion between several historical calendar systems
 
-The project provides a compact reference of calendar traditions and generates approximate representations of dates across different civilizations.
+The project provides a compact reference of calendar traditions and generates approximate representations of dates across different civilizations
 
 ## Supported Calendars
 
